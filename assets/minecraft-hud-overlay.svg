@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="104" viewBox="0 0 1200 104" role="img" aria-labelledby="title desc" shape-rendering="crispEdges">
+  <title id="title">Player inventory overlay</title>
+  <desc id="desc">Animated Minecraft-inspired player HUD with emerald indicators and an experience bar.</desc>
+  <defs>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#294d35"/><stop offset=".5" stop-color="#8dff72"/><stop offset="1" stop-color="#294d35"/></linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#5ce84a"/><stop offset="1" stop-color="#c5ff66"/></linearGradient>
+  </defs>
+  <rect x="2" y="2" width="1196" height="100" fill="#07130e" stroke="url(#edge)" stroke-width="3"/>
+  <path d="M2 22H1198M2 81H1198" stroke="#2c4e35" stroke-width="2"/>
+  <g font-family="monospace" font-weight="700">
+    <rect x="20" y="23" width="54" height="54" fill="#17371f" stroke="#78f86d" stroke-width="2"/>
+    <rect x="29" y="32" width="36" height="36" fill="#4fbf4d"/>
+    <rect x="35" y="38" width="8" height="8" fill="#0b2414"/><rect x="51" y="38" width="8" height="8" fill="#0b2414"/>
+    <rect x="39" y="50" width="16" height="8" fill="#0b2414"/>
+    <text x="92" y="42" font-size="12" fill="#8bff78">PLAYER / 001</text>
+    <text x="92" y="62" font-size="19" fill="#ecffe8">dARSHANdR4</text>
+    <text x="390" y="36" font-size="11" fill="#6bbd78">CURRENT CLASS</text>
+    <text x="390" y="59" font-size="17" fill="#ecffe8">BUILDER / AUTOMATION</text>
+    <rect x="390" y="70" width="270" height="7" fill="#18351e"/>
+    <rect x="390" y="70" width="150" height="7" fill="url(#bar)"><animate attributeName="width" values="150;195;160;225;150" dur="8s" repeatCount="indefinite"/></rect>
+    <text x="688" y="36" font-size="11" fill="#6bbd78">ACTIVE QUEST</text>
+    <text x="688" y="59" font-size="15" fill="#ecffe8">DATA • UI • TESTING</text>
+    <g transform="translate(1040 25)">
+      <rect x="0" y="0" width="12" height="12" fill="#60e85b"><animate attributeName="opacity" values="1;.2;1" dur="1.5s" repeatCount="indefinite"/></rect>
+      <text x="22" y="11" font-size="11" fill="#77ec73">WORLD STATUS</text>
+      <text x="22" y="34" font-size="17" fill="#ecffe8">ONLINE</text>
+    </g>
+  </g>
+  <path d="M8 8H46M8 8V25M1192 8H1154M1192 8V25M8 96H46M8 96V79M1192 96H1154M1192 96V79" stroke="#b9ff9b" stroke-width="3" fill="none"/>
+  <rect x="2" y="2" width="1196" height="100" fill="none" stroke="#b9ff9b" stroke-opacity=".08" stroke-width="5"/>
+</svg>
