@@ -33,154 +33,40 @@ I enjoy building practical applications—from market-data dashboards and foreca
 
 <img src="https://raw.githubusercontent.com/dARSHANdR4/dARSHANdR4/main/assets/minecraft-emerald-divider.svg?v=2" width="100%" alt="Animated emerald pixel divider">
 
-## 🟩 LIVE SERVERS / DEPLOYED WORLDS
+## 🟩 LIVE / HOSTED PROJECTS
 
 <div align="center">
 
-<a href="https://stock-market-nse-real-time.pages.dev/"><img src="https://img.shields.io/badge/🟩_STOCKPULSE-LIVE_ON_CLOUDFLARE-245b32?style=for-the-badge" alt="StockPulse live on Cloudflare Pages"></a>
-<a href="https://ai-prediction-studio.pages.dev/"><img src="https://img.shields.io/badge/🧪_AI_PREDICTION_STUDIO-LIVE_DASHBOARD-245b32?style=for-the-badge" alt="AI Prediction Studio live dashboard"></a>
-<a href="https://product-dashboard-nine-rouge.vercel.app/"><img src="https://img.shields.io/badge/📦_PRODUCT_DASHBOARD-LIVE_ON_VERCEL-245b32?style=for-the-badge" alt="Product Dashboard live on Vercel"></a>
-<a href="https://chromewebstore.google.com/detail/pixel-pets/fpkgdncikincjddlpibdhaaefjfoelga"><img src="https://img.shields.io/badge/🐾_PIXEL_PETS-INSTALL_FROM_STORE-245b32?style=for-the-badge" alt="Install Pixel Pets from Chrome Web Store"></a>
+<a href="https://stock-market-nse-real-time.pages.dev/"><img src="https://img.shields.io/badge/STOCKPULSE-LIVE_DEMO-245b32?style=for-the-badge&logo=cloudflarepages&logoColor=white" alt="StockPulse live demo"></a>
+<a href="https://ai-prediction-studio.pages.dev/"><img src="https://img.shields.io/badge/AI_PREDICTION_STUDIO-LIVE_DASHBOARD-245b32?style=for-the-badge&logo=cloudflarepages&logoColor=white" alt="AI Prediction Studio live dashboard"></a>
+<a href="https://forecast-forge.vercel.app/"><img src="https://img.shields.io/badge/FORECAST_FORGE-LIVE_DEMO-245b32?style=for-the-badge&logo=vercel&logoColor=white" alt="Forecast Forge live demo"></a>
+<a href="https://product-dashboard-nine-rouge.vercel.app/"><img src="https://img.shields.io/badge/PRODUCT_DASHBOARD-LIVE_DEMO-245b32?style=for-the-badge&logo=vercel&logoColor=white" alt="Product Dashboard live demo"></a>
+<a href="https://chromewebstore.google.com/detail/pixel-pets/fpkgdncikincjddlpibdhaaefjfoelga"><img src="https://img.shields.io/badge/PIXEL_PETS-CHROME_WEB_STORE-245b32?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Pixel Pets Chrome Web Store"></a>
 
 </div>
 
-| Deployed project | Hosted destination | Source repository |
+**Click a green badge to open the hosted app or published extension.** The list below links every featured repository to its public destination where one is available.
+
+| Project | Live / hosted destination | Source |
 |---|---|---|
-| 📈 **StockPulse** | [Open live web app ↗](https://stock-market-nse-real-time.pages.dev/) | [Stock-Market_NSE-Real-Time](https://github.com/dARSHANdR4/Stock-Market_NSE-Real-Time) |
-| 🧪 **AI Prediction Studio** | [Open dashboard ↗](https://ai-prediction-studio.pages.dev/) · [API health](https://ai-prediction-studio-api.onrender.com/health) · [API docs](https://ai-prediction-studio-api.onrender.com/docs) | [EDUNET_WEEK3_FINALWEEK](https://github.com/dARSHANdR4/EDUNET_WEEK3_FINALWEEK) |
-| 📦 **Product Admin Dashboard** | [Open live Vercel app ↗](https://product-dashboard-nine-rouge.vercel.app/) | [product-dashboard](https://github.com/dARSHANdR4/product-dashboard) |
-| 🐾 **Pixel Pets** | [Install from Chrome Web Store ↗](https://chromewebstore.google.com/detail/pixel-pets/fpkgdncikincjddlpibdhaaefjfoelga) | [pixel-pets](https://github.com/dARSHANdR4/pixel-pets) |
+| 📈 **StockPulse** | [🟩 Open Cloudflare Pages app ↗](https://stock-market-nse-real-time.pages.dev/) | [Repository](https://github.com/dARSHANdR4/Stock-Market_NSE-Real-Time) |
+| 🧪 **AI Prediction Studio** | [🟩 Open dashboard ↗](https://ai-prediction-studio.pages.dev/) · [Render API health](https://ai-prediction-studio-api.onrender.com/health) · [API docs](https://ai-prediction-studio-api.onrender.com/docs) | [Repository](https://github.com/dARSHANdR4/EDUNET_WEEK3_FINALWEEK) |
+| 🔮 **Forecast Forge** | [🟩 Open Vercel app ↗](https://forecast-forge.vercel.app/) | [Repository](https://github.com/dARSHANdR4/Forecast-Forge) |
+| 📦 **Product Admin Dashboard** | [🟩 Open Vercel app ↗](https://product-dashboard-nine-rouge.vercel.app/) | [Repository](https://github.com/dARSHANdR4/product-dashboard) |
+| 🐾 **Pixel Pets** | [🟩 Install from Chrome Web Store ↗](https://chromewebstore.google.com/detail/pixel-pets/fpkgdncikincjddlpibdhaaefjfoelga) | [Repository](https://github.com/dARSHANdR4/pixel-pets) |
+| ❤️ **Diabetes Detection Model** | Available inside the [AI Prediction Studio screening module ↗](https://ai-prediction-studio.pages.dev/) · no separate standalone app URL listed | [Repository](https://github.com/dARSHANdR4/diabetes_detection-model) |
+| 🌍 **International Education Cost Predictor** | No verified public hosted URL is listed in the repository README or GitHub homepage metadata yet | [Source / local setup](https://github.com/dARSHANdR4/International-Education-Cost-Predictor) |
+| 🎮 **Hand Cricket** | Command-line C game; it does not currently have a browser-hosted demo listed | [Source / run locally](https://github.com/dARSHANdR4/Hand-Cricket-Toss-Odd-Even-Game) |
 
-<sub>These are hosted web apps or a published browser extension. The projects below do not currently list a confirmed public live deployment in their repository README, so I’m linking their source rather than inventing a demo URL.</sub>
-
-<img src="https://raw.githubusercontent.com/dARSHANdR4/dARSHANdR4/main/assets/minecraft-emerald-divider.svg?v=3" width="100%" alt="Animated emerald pixel divider">
-
-## 🏰 QUEST LOG / FEATURED BUILDS
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📈 01 / StockPulse
-**NSE Stock Data Explorer**
-
-Explore historical Indian stock prices, interactive charts, and RSI indicators.
-
-- Historical stock lookup
-- Interactive technical charts
-- AI-assisted market summaries
-
-[**🟩 OPEN LIVE BUILD ↗**](https://stock-market-nse-real-time.pages.dev/)  
-[Source repository](https://github.com/dARSHANdR4/Stock-Market_NSE-Real-Time)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧪 02 / AI Prediction Studio
-**Three-model prediction workspace**
-
-Crop recommendations, fertilizer suggestions, and educational diabetes screening.
-
-- React + Vite frontend
-- FastAPI prediction API
-- Model evaluation and CI
-
-[**🟩 OPEN LIVE DASHBOARD ↗**](https://ai-prediction-studio.pages.dev/)  
-[API health](https://ai-prediction-studio-api.onrender.com/health) · [API docs](https://ai-prediction-studio-api.onrender.com/docs)  
-[Source repository](https://github.com/dARSHANdR4/EDUNET_WEEK3_FINALWEEK)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🐾 03 / Pixel Pets
-**Animated Browser Companion**
-
-Pixel-art pets with interactive care, pet behaviour, and achievements.
-
-- Canvas 2D animation
-- Interactive pet behaviour
-- Local companion experience
-
-[**🟩 INSTALL FROM CHROME WEB STORE ↗**](https://chromewebstore.google.com/detail/pixel-pets/fpkgdncikincjddlpibdhaaefjfoelga)  
-[Source repository](https://github.com/dARSHANdR4/pixel-pets)
-
-</td>
-<td width="50%" valign="top">
-
-### 📦 04 / Product Admin Dashboard
-**Product management interface**
-
-A responsive product dashboard with search, filtering, pagination, CRUD workflows, and dark mode.
-
-[**🟩 OPEN LIVE VERCEL APP ↗**](https://product-dashboard-nine-rouge.vercel.app/)  
-[Source repository](https://github.com/dARSHANdR4/product-dashboard)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔮 05 / Forecast-Forge
-**AI-Powered Forecasting**
-
-A browser-based workflow for exploring CSV data, training models, comparing metrics, and generating forecasts.
-
-**Deployment status:** No confirmed public live URL listed in the repository README.
-
-[**⛏️ VIEW SOURCE / SETUP ↗**](https://github.com/dARSHANdR4/Forecast-Forge)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌍 06 / International Education Cost Predictor
-**Study-Abroad Cost Estimation**
-
-A Streamlit application that estimates study costs abroad and can show results in INR.
-
-**Deployment status:** No confirmed public hosted URL listed in the repository README.
-
-[**⛏️ VIEW SOURCE / SETUP ↗**](https://github.com/dARSHANdR4/International-Education-Cost-Predictor)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎮 07 / Hand Cricket
-**Toss · Odd · Even**
-
-A command-line C game with toss, batting, wickets, and overs.
-
-**Deployment status:** CLI project; no public browser-based demo listed.
-
-[**⛏️ VIEW SOURCE / RUN LOCALLY ↗**](https://github.com/dARSHANdR4/Hand-Cricket-Toss-Odd-Even-Game)
-
-</td>
-<td width="50%" valign="top">
-
-### ❤️ 08 / Diabetes Detection Model
-**Educational screening model**
-
-The standalone repo documents an SVM example. The combined deployed dashboard hosts its educational screening interface.
-
-[**🟩 OPEN SCREENING DASHBOARD ↗**](https://ai-prediction-studio.pages.dev/)  
-[Standalone model source](https://github.com/dARSHANdR4/diabetes_detection-model)
-
-<sub>Screening demo only, not a diagnosis or a substitute for medical testing.</sub>
-
-</td>
-</tr>
-</table>
+<sub>Deployment links above are taken from each repository's README or GitHub homepage metadata. A listed URL is a published destination, not a guarantee of uptime. The two projects without public-hosting details are labelled honestly instead of using guessed URLs.</sub>
 
 <div align="center">
 
-<a href="https://github.com/dARSHANdR4?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-8eff76?style=for-the-badge&logo=github&logoColor=07130e" alt="View all repositories"></a>
+<a href="https://github.com/dARSHANdR4?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-8eff76?style=for-the-badge&logo=github&logoColor=07130e" alt="Explore all repositories"></a>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/dARSHANdR4/dARSHANdR4/main/assets/minecraft-emerald-divider.svg?v=3" width="100%" alt="Animated emerald pixel divider">
+<img src="https://raw.githubusercontent.com/dARSHANdR4/dARSHANdR4/main/assets/minecraft-emerald-divider.svg?v=4" width="100%" alt="Animated emerald pixel divider">
 
 ## ⛏️ TOOL INVENTORY
 
