@@ -13,7 +13,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/dARSHANdR4/dARSHANdR4/main/assets/minecraft-emerald-divider.svg?v=1" width="100%" alt="Animated emerald pixel divider">
+<img src="https://raw.githubusercontent.com/dARSHANdR4/dARSHANdR4/main/assets/minecraft-emerald-divider.svg?v=2" width="100%" alt="Animated emerald pixel divider">
 
 ## 🧱 PLAYER PROFILE
 
@@ -31,7 +31,7 @@ I enjoy building practical applications—from market-data dashboards and foreca
 | 🧪 Quality rule | Test it, document it, improve it |
 | 🧭 Build philosophy | Useful first. Reliable always. Keep shipping. |
 
-<img src="https://raw.githubusercontent.com/dARSHANdR4/dARSHANdR4/main/assets/minecraft-emerald-divider.svg?v=1" width="100%" alt="Animated emerald pixel divider">
+<img src="https://raw.githubusercontent.com/dARSHANdR4/dARSHANdR4/main/assets/minecraft-emerald-divider.svg?v=2" width="100%" alt="Animated emerald pixel divider">
 
 ## 🏰 QUEST LOG / FEATURED BUILDS
 
@@ -122,7 +122,7 @@ A small interactive game project inspired by the familiar hand-cricket format.
 
 </div>
 
-<img src="https://raw.githubusercontent.com/dARSHANdR4/dARSHANdR4/main/assets/minecraft-emerald-divider.svg?v=1" width="100%" alt="Animated emerald pixel divider">
+<img src="https://raw.githubusercontent.com/dARSHANdR4/dARSHANdR4/main/assets/minecraft-emerald-divider.svg?v=2" width="100%" alt="Animated emerald pixel divider">
 
 ## ⛏️ TOOL INVENTORY
 
@@ -143,7 +143,7 @@ A small interactive game project inspired by the familiar hand-cricket format.
 
 </div>
 
-<img src="https://raw.githubusercontent.com/dARSHANdR4/dARSHANdR4/main/assets/minecraft-emerald-divider.svg?v=1" width="100%" alt="Animated emerald pixel divider">
+<img src="https://raw.githubusercontent.com/dARSHANdR4/dARSHANdR4/main/assets/minecraft-emerald-divider.svg?v=2" width="100%" alt="Animated emerald pixel divider">
 
 ## 📊 WORLD STATS
 
@@ -158,7 +158,7 @@ A small interactive game project inspired by the familiar hand-cricket format.
 
 <sub>Stats cards rely on external services, so they may occasionally be unavailable.</sub>
 
-<img src="https://raw.githubusercontent.com/dARSHANdR4/dARSHANdR4/main/assets/minecraft-emerald-divider.svg?v=1" width="100%" alt="Animated emerald pixel divider">
+<img src="https://raw.githubusercontent.com/dARSHANdR4/dARSHANdR4/main/assets/minecraft-emerald-divider.svg?v=2" width="100%" alt="Animated emerald pixel divider">
 
 ## 🎯 NEXT QUESTS
 
