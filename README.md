@@ -1,109 +1,116 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/dARSHANdR4/dARSHANdR4/main/assets/neon-steam-banner.svg?v=1" width="100%" alt="Animated neon cyberpunk banner for dARSHANdR4">
+<img src="https://raw.githubusercontent.com/dARSHANdR4/dARSHANdR4/main/assets/minecraft-world-banner.svg?v=1" width="100%" alt="Animated voxel world banner — dARSHANdR4">
 
-<a href="https://github.com/dARSHANdR4">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=760&lines=BUILDING+DIGITAL+EXPERIENCES;DATA+%C2%B7+AUTOMATION+%C2%B7+INTERACTIVE+TOOLS;TURNING+IDEAS+INTO+REAL+PROJECTS" alt="Animated typing introduction">
-</a>
+<img src="https://raw.githubusercontent.com/dARSHANdR4/dARSHANdR4/main/assets/minecraft-hud-overlay.svg?v=1" width="100%" alt="Animated player HUD and build status">
 
-<br>
-
-[![Explore Projects](https://img.shields.io/badge/EXPLORE-PROJECTS-00F5FF?style=for-the-badge&logo=github&logoColor=07111f)](https://github.com/dARSHANdR4?tab=repositories)
-[![Live Demo](https://img.shields.io/badge/STOCKPULSE-LIVE_DEMO-FF3CAC?style=for-the-badge&logo=chartdotjs&logoColor=white)](https://stock-market-nse-real-time.pages.dev/)
-[![Profile Views](https://komarev.com/ghpvc/?username=dARSHANdR4&style=for-the-badge&color=7C4DFF&label=PROFILE+VIEWS)](https://github.com/dARSHANdR4)
+<p>
+  <a href="https://github.com/dARSHANdR4?tab=repositories"><img src="https://img.shields.io/badge/OPEN_WORLD-EXPLORE_REPOS-245b32?style=for-the-badge&logo=github&logoColor=d9ffd7" alt="Explore repositories"></a>
+  <a href="https://ai-prediction-studio.pages.dev/"><img src="https://img.shields.io/badge/LIVE_BUILD-AI_STUDIO-337b3e?style=for-the-badge&logo=cloudflarepages&logoColor=white" alt="AI Studio live demo"></a>
+  <a href="https://stock-market-nse-real-time.pages.dev/"><img src="https://img.shields.io/badge/STOCKPULSE-LIVE_DEMO-26734d?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="StockPulse live demo"></a>
+  <a href="https://github.com/dARSHANdR4/pixel-pets"><img src="https://img.shields.io/badge/PIXEL_PETS-ENTER_WORLD-426b3d?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Pixel Pets project"></a>
+</p>
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/dARSHANdR4/dARSHANdR4/main/assets/minecraft-emerald-divider.svg?v=1" width="100%" alt="Animated emerald pixel divider">
 
-## <span style="color:#00F5FF">▰</span> SYSTEM PROFILE / ABOUT
+## 🧱 PLAYER PROFILE
 
-> **Developer. Builder. Problem solver.**
->
-> I enjoy turning ideas into practical digital products — from market-data dashboards and browser experiences to forecasting tools and automation projects.
+> **IGN:** dARSHANdR4  
+> **Game mode:** Builder  
+> **Main quest:** Turn ideas into useful digital products.  
+> **Inventory:** Data tools · Automation · Interactive UI · Testing
 
-- **Current direction:** building useful applications with clean interfaces and maintainable code.
-- **What I enjoy:** data-driven tools, interactive UI, testing, automation, and product-focused engineering.
-- **Build philosophy:** make it useful, make it reliable, keep improving.
+I enjoy building practical applications—from market-data dashboards and forecasting tools to browser experiences and small interactive games. I care about clean interfaces, reliable behaviour, automated testing, and making each project more useful with every iteration.
 
----
+| Player stat | Current build |
+|---|---|
+| 🟩 Role | Developer / Builder / Problem Solver |
+| ⛏️ Focus | Data-driven tools, automation, UI, testing |
+| 🧪 Quality rule | Test it, document it, improve it |
+| 🧭 Build philosophy | Useful first. Reliable always. Keep shipping. |
 
-## <span style="color:#FF3CAC">▰</span> FEATURED PROJECTS
+<img src="https://raw.githubusercontent.com/dARSHANdR4/dARSHANdR4/main/assets/minecraft-emerald-divider.svg?v=1" width="100%" alt="Animated emerald pixel divider">
+
+## 🏰 QUEST LOG / FEATURED BUILDS
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### <a href="https://github.com/dARSHANdR4/Stock-Market_NSE-Real-Time">01 / StockPulse</a>
+### 📈 01 / StockPulse
 **NSE Stock Data Explorer**
 
-Explore historical Indian stock prices with interactive charts, RSI indicators, and AI-assisted market insights.
+An interactive space for exploring Indian market data, historical prices, charts, and technical indicators.
 
-- 📈 Historical stock lookup and charts
-- 🧠 AI-assisted summaries via a server-side API
-- 🧪 Playwright browser testing
-- ☁️ Cloudflare Pages deployment
+- Historical stock lookup and interactive charts
+- RSI and market-data exploration
+- Browser testing with Playwright
 
-[<b>OPEN LIVE DEMO ↗</b>](https://stock-market-nse-real-time.pages.dev/)
+[**▶ OPEN LIVE BUILD**](https://stock-market-nse-real-time.pages.dev/) · [Repository](https://github.com/dARSHANdR4/Stock-Market_NSE-Real-Time)
 
 </td>
 <td width="50%" valign="top">
 
-### <a href="https://github.com/dARSHANdR4/pixel-pets">02 / Pixel Pets</a>
-**Animated Browser Companion**
+### 🧪 02 / AI Prediction Studio
+**Three-model prediction workspace**
 
-A Chrome extension with pixel-art pets, interactive care, custom settings, and a tiered achievement system.
+A unified dashboard for crop recommendations, fertilizer suggestions, and educational diabetes screening.
 
-- 🐾 Canvas 2D pet animations
-- 🎮 Interactive pet behaviour
-- 🏆 Achievement progression
-- 🎨 Neon-inspired Neo-Brutalism UI
+- React + Vite frontend
+- FastAPI prediction middleware
+- CI training, evaluation reports, and Docker build
 
-[<b>CHROME WEB STORE ↗</b>](https://chromewebstore.google.com/detail/pixel-pets/fpkgdncikincjddlpibdhaaefjfoelga)
+[**▶ OPEN LIVE BUILD**](https://ai-prediction-studio.pages.dev/) · [Repository](https://github.com/dARSHANdR4/EDUNET_WEEK3_FINALWEEK)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### <a href="https://github.com/dARSHANdR4/Forecast-Forge">03 / Forecast-Forge</a>
-**AI-Powered Forecasting**
+### 🐾 03 / Pixel Pets
+**Animated Browser Companion**
 
-A guided workflow that turns CSV datasets into forecasting insights, model comparisons, and predictions.
+A Chrome extension with pixel-art pets, interactive care, settings, and a tiered achievement system.
 
-[EXPLORE PROJECT ↗](https://github.com/dARSHANdR4/Forecast-Forge)
+- Canvas 2D pet animation
+- Interactive behaviour and achievements
+- Custom pixel-inspired interface
+
+[**▶ OPEN REPOSITORY**](https://github.com/dARSHANdR4/pixel-pets)
 
 </td>
 <td width="50%" valign="top">
 
-### <a href="https://github.com/dARSHANdR4/International-Education-Cost-Predictor">04 / International Education Cost Predictor</a>
+### 🔮 04 / Forecast-Forge
+**AI-Powered Forecasting**
+
+A workflow for turning CSV datasets into forecasting insights, model comparisons, and predictions.
+
+[**▶ OPEN REPOSITORY**](https://github.com/dARSHANdR4/Forecast-Forge)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌍 05 / International Education Cost Predictor
 **Study-Abroad Cost Estimation**
 
 A Streamlit app that estimates potential higher-education costs abroad using user inputs and a machine-learning model.
 
-[EXPLORE PROJECT ↗](https://github.com/dARSHANdR4/International-Education-Cost-Predictor)
+[**▶ OPEN REPOSITORY**](https://github.com/dARSHANdR4/International-Education-Cost-Predictor)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
-### <a href="https://github.com/dARSHANdR4/Hand-Cricket-Toss-Odd-Even-Game">05 / Hand Cricket</a>
+### 🎮 06 / Hand Cricket
 **Toss · Odd · Even**
 
-A small interactive game project built around a familiar hand-cricket format.
+A small interactive game project inspired by the familiar hand-cricket format.
 
-[EXPLORE PROJECT ↗](https://github.com/dARSHANdR4/Hand-Cricket-Toss-Odd-Even-Game)
-
-</td>
-<td width="50%" valign="top">
-
-### <a href="https://github.com/dARSHANdR4/product-dashboard">06 / Product Dashboard</a>
-**Dashboard Project**
-
-Explore another project from my repository collection.
-
-[EXPLORE PROJECT ↗](https://github.com/dARSHANdR4/product-dashboard)
+[**▶ OPEN REPOSITORY**](https://github.com/dARSHANdR4/Hand-Cricket-Toss-Odd-Even-Game)
 
 </td>
 </tr>
@@ -111,63 +118,65 @@ Explore another project from my repository collection.
 
 <div align="center">
 
-[ **VIEW ALL REPOSITORIES →** ](https://github.com/dARSHANdR4?tab=repositories)
+<a href="https://github.com/dARSHANdR4?tab=repositories"><img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-8eff76?style=for-the-badge&logo=github&logoColor=07130e" alt="View all repositories"></a>
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/dARSHANdR4/dARSHANdR4/main/assets/minecraft-emerald-divider.svg?v=1" width="100%" alt="Animated emerald pixel divider">
 
-## <span style="color:#00F5FF">▰</span> TECH STACK / TOOLKIT
+## ⛏️ TOOL INVENTORY
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-0B1020?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/PYTHON-0B1020?style=for-the-badge&logo=python&logoColor=4FC3F7)
-![HTML5](https://img.shields.io/badge/HTML5-0B1020?style=for-the-badge&logo=html5&logoColor=FF7043)
-![CSS3](https://img.shields.io/badge/CSS3-0B1020?style=for-the-badge&logo=css3&logoColor=42A5F5)
-![C](https://img.shields.io/badge/C-0B1020?style=for-the-badge&logo=c&logoColor=90CAF9)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-18331e?style=for-the-badge&logo=javascript&logoColor=f7df1e)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-18331e?style=for-the-badge&logo=typescript&logoColor=8bcaff)
+![Python](https://img.shields.io/badge/PYTHON-18331e?style=for-the-badge&logo=python&logoColor=ffdf76)
+![Jupyter](https://img.shields.io/badge/JUPYTER-18331e?style=for-the-badge&logo=jupyter&logoColor=ffad68)
+![HTML5](https://img.shields.io/badge/HTML5-18331e?style=for-the-badge&logo=html5&logoColor=ff9a68)
+![CSS3](https://img.shields.io/badge/CSS3-18331e?style=for-the-badge&logo=css3&logoColor=9bd5ff)
+![C](https://img.shields.io/badge/C-18331e?style=for-the-badge&logo=c&logoColor=9bd5ff)
 
-![GitHub](https://img.shields.io/badge/GITHUB-0B1020?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![Cloudflare Pages](https://img.shields.io/badge/CLOUDFLARE_PAGES-0B1020?style=for-the-badge&logo=cloudflare&logoColor=F38020)
-![Playwright](https://img.shields.io/badge/PLAYWRIGHT-0B1020?style=for-the-badge&logo=playwright&logoColor=2EAD33)
-![Chart.js](https://img.shields.io/badge/CHART.JS-0B1020?style=for-the-badge&logo=chartdotjs&logoColor=FF6384)
+![GitHub](https://img.shields.io/badge/GITHUB-14271a?style=for-the-badge&logo=github&logoColor=white)
+![Cloudflare Pages](https://img.shields.io/badge/CLOUDFLARE_PAGES-14271a?style=for-the-badge&logo=cloudflarepages&logoColor=ffb36b)
+![Playwright](https://img.shields.io/badge/PLAYWRIGHT-14271a?style=for-the-badge&logo=playwright&logoColor=8eff76)
+![Chart.js](https://img.shields.io/badge/CHART.JS-14271a?style=for-the-badge&logo=chartdotjs&logoColor=ff8eaa)
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/dARSHANdR4/dARSHANdR4/main/assets/minecraft-emerald-divider.svg?v=1" width="100%" alt="Animated emerald pixel divider">
 
-## <span style="color:#FF3CAC">▰</span> GITHUB TELEMETRY
+## 📊 WORLD STATS
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dARSHANdR4&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=00F5FF&icon_color=FF3CAC&text_color=DDE7FF&rank_icon=github" alt="GitHub stats">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dARSHANdR4&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=00F5FF&text_color=DDE7FF" alt="Top languages">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dARSHANdR4&show_icons=true&theme=transparent&hide_border=true&bg_color=0B1710&title_color=8EFF76&icon_color=58D878&text_color=DFFFE2&rank_icon=github" alt="GitHub stats">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dARSHANdR4&layout=compact&theme=transparent&hide_border=true&bg_color=0B1710&title_color=8EFF76&text_color=DFFFE2" alt="Most used languages">
 
-<img src="https://streak-stats.demolab.com?user=dARSHANdR4&theme=tokyonight&hide_border=true&background=0B1020&ring=00F5FF&fire=FF3CAC&currStreakLabel=00F5FF" alt="GitHub streak stats">
+<img src="https://streak-stats.demolab.com?user=dARSHANdR4&theme=transparent&hide_border=true&background=0B1710&ring=8EFF76&fire=58D878&currStreakLabel=8EFF76&sideLabels=DFFFE2&dates=9DB7A0" alt="GitHub contribution streak">
 
 </div>
 
-<sub>Stats cards are served by external services and may occasionally be unavailable.</sub>
+<sub>Stats cards rely on external services, so they may occasionally be unavailable.</sub>
 
----
+<img src="https://raw.githubusercontent.com/dARSHANdR4/dARSHANdR4/main/assets/minecraft-emerald-divider.svg?v=1" width="100%" alt="Animated emerald pixel divider">
 
-## <span style="color:#00F5FF">▰</span> NEXT OBJECTIVE
+## 🎯 NEXT QUESTS
 
-- Ship useful features, not just demos.
-- Improve testing, reliability, and user experience.
-- Explore new ways to combine data, automation, and interactive design.
-- Keep learning by building real projects.
-
----
+- 🧩 Ship practical features instead of stopping at prototypes.
+- 🧪 Improve test coverage, reliability, and user experience.
+- ⚙️ Build more tools that connect data, automation, and interactive design.
+- 🌱 Keep learning by building, measuring, and iterating.
 
 <div align="center">
 
-### <span style="color:#00F5FF">THANKS FOR VISITING</span>
+<img src="https://raw.githubusercontent.com/dARSHANdR4/dARSHANdR4/main/assets/minecraft-hud-overlay.svg?v=1" width="100%" alt="Animated build status HUD">
 
-**IDEAS → CODE → PRODUCTS → ITERATION**
+### 🌿 THANKS FOR EXPLORING MY WORLD
 
-[![GitHub](https://img.shields.io/badge/FIND_ME_ON_GITHUB-111827?style=for-the-badge&logo=github&logoColor=00F5FF)](https://github.com/dARSHANdR4)
+**IDEA → CRAFT → TEST → SHIP → REPEAT**
 
-<sub>Neon after dark. Build with purpose. Keep shipping. ◈</sub>
+<a href="https://github.com/dARSHANdR4"><img src="https://img.shields.io/badge/FIND_ME_ON_GITHUB-1c3e28?style=for-the-badge&logo=github&logoColor=8eff76" alt="Find me on GitHub"></a>
+
+<sub>Build with purpose. Keep the world loading. ◈</sub>
 
 </div>
