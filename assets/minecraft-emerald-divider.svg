@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="46" viewBox="0 0 1200 46" role="img" aria-labelledby="title desc" shape-rendering="crispEdges">
+  <title id="title">Animated emerald pixel divider</title>
+  <desc id="desc">A repeating grass and dirt block divider with a glowing emerald and moving light.</desc>
+  <defs>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8aff63" stop-opacity="0"/><stop offset=".5" stop-color="#e5ffd8" stop-opacity=".95"/><stop offset="1" stop-color="#8aff63" stop-opacity="0"/></linearGradient>
+  </defs>
+  <rect x="0" y="17" width="1200" height="8" fill="#4b9851"/>
+  <rect x="0" y="17" width="1200" height="3" fill="#8ef56d"/>
+  <rect x="0" y="25" width="1200" height="15" fill="#5e3f2c"/>
+  <g fill="#8a5b39"><rect x="24" y="29" width="28" height="7"/><rect x="106" y="29" width="28" height="7"/><rect x="188" y="29" width="28" height="7"/><rect x="270" y="29" width="28" height="7"/><rect x="352" y="29" width="28" height="7"/><rect x="434" y="29" width="28" height="7"/><rect x="516" y="29" width="28" height="7"/><rect x="656" y="29" width="28" height="7"/><rect x="738" y="29" width="28" height="7"/><rect x="820" y="29" width="28" height="7"/><rect x="902" y="29" width="28" height="7"/><rect x="984" y="29" width="28" height="7"/><rect x="1066" y="29" width="28" height="7"/><rect x="1148" y="29" width="28" height="7"/></g>
+  <g transform="translate(600 20)">
+    <path d="M0 -15L14 -8V8L0 15L-14 8V-8Z" fill="#14432b" stroke="#9aff80" stroke-width="2"/>
+    <path d="M0 -10L9 -5V5L0 10L-9 5V-5Z" fill="#42d879"/>
+    <path d="M0 -7L5 -3V3L0 7L-5 3V-3Z" fill="#c6ffd0"/>
+    <animateTransform attributeName="transform" type="rotate" values="0;90;180;270;360" dur="12s" repeatCount="indefinite"/>
+  </g>
+  <rect x="0" y="0" width="180" height="46" fill="url(#shine)" opacity=".55">
+    <animate attributeName="x" values="-180;1200;-180" dur="6s" repeatCount="indefinite"/>
+  </rect>
+</svg>
